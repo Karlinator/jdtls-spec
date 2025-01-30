@@ -2,10 +2,10 @@
 BuildArch:      noarch
 Summary:        Java language server
 Name:           jdtls
-Version:        1.41.0
+Version:        1.44.0
 Release:        1%{?dist}
 
-%global         timestamp  202410311350
+%global         timestamp  202501221502
 
 License:        EPL-2.0
 URL:            https://github.com/eclipse-jdtls/eclipse.jdt.ls
